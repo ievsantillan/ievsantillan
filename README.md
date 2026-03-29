@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I’m Ian 👋
 
-<!--
-**ievsantillan/ievsantillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Solution Engineer focused on helping organizations design and deliver modern data, analytics, and AI solutions—especially end-to-end architectures, governance patterns, and practical enablement.
 
-Here are some ideas to get you started:
+## What I do
+- 🧠 Solution architecture for analytics + AI workloads (from discovery to deployment)
+- 🧰 Prototyping & demos that prove value quickly (and are maintainable)
+- 🏛️ Data governance, lineage, and operating models that scale
+- 🧩 Translating between business outcomes and technical implementation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus areas
+- Microsoft Fabric (Lakehouse / Warehousing / Real-Time / Data Science)
+- Data governance & cataloging
+- Modern integration patterns (event-driven + batch)
+- AI-ready data foundations (quality, semantics, and security)
+
+## How I like to collaborate
+- I’m happiest when we start with: **goal → constraints → minimal viable path → iteration**
+- I value: clear ownership, explicit assumptions, and “show me” prototypes
+- If you’re reaching out: include **context, what you tried, and what success looks like**
+
+## Quick facts
+- 💬 Ask me about: data architecture, governance, semantic modeling, and demo design
+- 🧪 I enjoy: simplifying complex systems into practical steps
+- 📍 Based in: Edmonton, Canada
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/ian-santillan/
