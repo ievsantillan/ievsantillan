@@ -22,7 +22,6 @@ I’m a Solution Engineer focused on helping organizations design and deliver mo
 ## Quick facts
 - 💬 Ask me about: data architecture, governance, semantic modeling, and demo design
 - 🧪 I enjoy: simplifying complex systems into practical steps
-- 📍 Based in: Edmonton, Canada
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/ian-santillan/
