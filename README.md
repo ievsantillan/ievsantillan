@@ -9,9 +9,9 @@ I’m a Solution Engineer focused on helping organizations design and deliver mo
 - 🧩 Translating between business outcomes and technical implementation
 
 ## Current focus areas
-- Microsoft Fabric (Lakehouse / Warehousing / Real-Time / Data Science)
+- Microsoft Fabric (Databases / Data Factory / Analytics / Real-Time Intelligence / Power BI / IQ)
 - Data governance & cataloging
-- Modern integration patterns (event-driven + batch)
+- Modern integration patterns (event-driven, batch, real-time)
 - AI-ready data foundations (quality, semantics, and security)
 
 ## How I like to collaborate
